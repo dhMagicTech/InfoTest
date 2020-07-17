@@ -1,7 +1,7 @@
 # InfoTest
 
 NOTICE
-We are working closely with the Flutter Team to integrate all ###(@https://7970k.com/mobile/@）###the Community Plugin features in the Official WebView Plugin. We will try our best to resolve PRs and Bugfixes, but our priority right now is to merge our two code-bases. Once the merge is complete we will deprecate the Community Plugin in favor of the Official one.
+We are working closely with the Flutter Team to integrate all    ###(@https://7970k.com/mobile/@)###    the Community Plugin features in the Official WebView Plugin. We will try our best to resolve PRs and Bugfixes, but our priority right now is to merge our two code-bases. Once the merge is complete we will deprecate the Community Plugin in favor of the Official one.
 
 Thank you for all your support, hopefully you'll also show it for Official Plugin too.
 
