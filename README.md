@@ -71,7 +71,7 @@ return new MaterialApp(
     ),
   },
 );
-FlutterWebviewPlugin provide a singleton instance linked to one unique webview, so ###(@https://www.baidu.com@)### you can take control of the webview from anywhere in the app
+FlutterWebviewPlugin provide a singleton instance linked to one unique webview, so you can take control of the webview from anywhere in the app
 
 listen for events
 
